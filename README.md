@@ -1,5 +1,14 @@
-## Hi there 👋
+🔭 我目前正在利用人工智能进行网络小说创作。
 
+🔭 I'm currently working on writing web novels with the help of AI...
+
+🌱 笔名：月夜苟道人
+
+🌱 Pen name: l2t
+
+⚡人间一趟，慢慢向上。 
+
+⚡Casue life, so quietly up to top.
 <!--
 **luckti2top/luckti2top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
